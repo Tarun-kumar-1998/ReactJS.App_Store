@@ -1,0 +1,12 @@
+.bg3 {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid pink;
+  background-color: white;
+  border-radius: 25px;
+  list-style-type: none;
+}
+.img {
+  width: 150px;
+  border-radius: 20px;
+}
